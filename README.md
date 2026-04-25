@@ -61,12 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
+**Total Solved: 1**
+
+| Difficulty | Count | Percentage |
+| :--- | :---: | :---: |
+| 🟢 Easy | 0 | 0% |
+| 🟡 Medium | 1 | 100% |
+| 🔴 Hard | 0 | 0% |
+
 ```
-Easy    ░░░░░░░░░░░░░░░░░░░░  0
-Medium  ░░░░░░░░░░░░░░░░░░░░  0
-Hard    ░░░░░░░░░░░░░░░░░░░░  0
-──────────────────────────────
-Total                         0
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -79,7 +83,7 @@ Total                         0
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
 | 📅 Daily Questions | 0 | — |
-| 🧮 Dynamic Programming | 0 | — |
+| 🧮 Dynamic Programming | 1 | 2026-04-25 |
 | 📚 Stack | 0 | — |
 | 👆 Two Pointer | 0 | — |
 <!-- PATTERNS_END -->
@@ -91,9 +95,11 @@ Total                         0
 > 🤖 _Auto-updated by LeetPush on every push_
 
 <!-- DAILY_START -->
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
-| — | _No solutions pushed yet_ | — | — |
+| 2026-04-25 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/064_minimum_path_sum.java) |
+
 <!-- DAILY_END -->
 
 ---
