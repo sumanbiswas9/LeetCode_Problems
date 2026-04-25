@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 2**
+**Total Solved: 3**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 0 | 0% |
-| 🟡 Medium | 2 | 100% |
+| 🟢 Easy | 1 | 33% |
+| 🟡 Medium | 2 | 67% |
 | 🔴 Hard | 0 | 0% |
 
 ```
-🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -85,7 +85,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📅 Daily Questions | 0 | — |
 | 🧮 Dynamic Programming | 1 | 2026-04-25 |
 | 📚 Stack | 0 | — |
-| 👆 Two Pointer | 1 | 2026-04-25 |
+| 👆 Two Pointer | 2 | 2026-04-25 |
 <!-- PATTERNS_END -->
 
 ---
@@ -94,11 +94,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 <!-- DAILY_START -->
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-25 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Two_Pointer/026_remove_duplicates_from_sorted_array.java) |
 | 2026-04-25 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Two_Pointer/005_longest_palindromic_substring.java) |
 | 2026-04-25 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/064_minimum_path_sum.java) |
-
 <!-- DAILY_END -->
 
 ---
