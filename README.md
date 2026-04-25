@@ -29,7 +29,7 @@
 > **Language:** Java ☕  
 > **Goal:** Solve LeetCode problems consistently, master patterns, and compete regularly.
 
-This repository is my **public commitment** to becoming a better problem solver. Every solution is auto-pushed here via **[LeetPush](https://github.com/yourusername/leetpush)** — a Chrome extension that pushes LeetCode solutions directly to GitHub. No manual uploads, no skipping days.
+This repository is my **public commitment** to becoming a better problem solver.
 
 ---
 
@@ -53,7 +53,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 │   └── 📄 ProblemName.java
 │
 ├── 📄 .gitignore
-└── 📄 README.md              ← Auto-updated by LeetPush on every push ✨
+└── 📄 README.md
 ```
 
 ---
@@ -92,15 +92,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 ## 📅 Daily Challenges Log
 
-> 🤖 _Auto-updated by LeetPush on every push_
-
 <!-- DAILY_START -->
-
 
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
 | 2026-04-25 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Two_Pointer/005_longest_palindromic_substring.java) |
 | 2026-04-25 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/064_minimum_path_sum.java) |
+
 <!-- DAILY_END -->
 
 ---
