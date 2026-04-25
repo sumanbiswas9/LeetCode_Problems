@@ -13,7 +13,7 @@
 
 ### _One problem at a time. Every single day._
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/Suman9775/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suman9775/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/leetcode?style=for-the-badge&color=brightgreen)](https://github.com/sumanbiswas9)
 ![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Problems Solved](https://img.shields.io/badge/Total%20Solved-0-blue?style=for-the-badge)
@@ -174,7 +174,7 @@ class Solution {
 
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/sumanbiswas9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suman-biswas-81496b261/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/Suman9775/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suman9775/)
 
 </div>
 
