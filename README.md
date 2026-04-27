@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 14**
+**Total Solved: 15**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 8 | 57% |
-| 🟡 Medium | 6 | 43% |
+| 🟢 Easy | 9 | 60% |
+| 🟡 Medium | 6 | 40% |
 | 🔴 Hard | 0 | 0% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 1 | 2026-04-26 |
+| 📅 Daily Questions | 2 | 2026-04-27 |
 | 🧮 Dynamic Programming | 3 | 2026-04-26 |
 | 📚 Stack | 0 | — |
 | 👆 Two Pointer | 3 | 2026-04-27 |
@@ -107,8 +107,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-27 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/206_reverse_linked_list.java) |
 | 2026-04-27 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/String/058_length_of_last_word.java) |
 | 2026-04-27 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/String/206_reverse_linked_list.java) |
 | 2026-04-27 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/String/058_length_of_last_word.java) |
