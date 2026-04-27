@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 9**
+**Total Solved: 10**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 3 | 33% |
-| 🟡 Medium | 6 | 67% |
+| 🟢 Easy | 4 | 40% |
+| 🟡 Medium | 6 | 60% |
 | 🔴 Hard | 0 | 0% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -85,7 +85,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📅 Daily Questions | 1 | 2026-04-26 |
 | 🧮 Dynamic Programming | 3 | 2026-04-26 |
 | 📚 Stack | 0 | — |
-| 👆 Two Pointer | 2 | 2026-04-25 |
+| 👆 Two Pointer | 3 | 2026-04-27 |
 <!-- PATTERNS_END -->
 
 ---
@@ -101,8 +101,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-27 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Two_Pointer/121_best_time_to_buy_and_sell_stock.java) |
 | 2026-04-27 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Linked_List/142_linked_list_cycle_ii.java) |
 | 2026-04-27 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Sliding_Window/003_longest_substring_without_repeating_characters.java) |
 | 2026-04-27 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Prefix_Sum/560_subarray_sum_equals_k.java) |
