@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 6**
+**Total Solved: 7**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 3 | 50% |
-| 🟡 Medium | 3 | 50% |
+| 🟢 Easy | 3 | 43% |
+| 🟡 Medium | 4 | 57% |
 | 🔴 Hard | 0 | 0% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -98,8 +98,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-27 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Prefix_Sum/560_subarray_sum_equals_k.java) |
 | 2026-04-26 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/119_pascals_triangle_ii.java) |
 | 2026-04-26 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1559_detect_cycles_in_2d_grid.java) |
 | 2026-04-25 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/118_pascals_triangle.java) |
