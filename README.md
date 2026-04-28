@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 16**
+**Total Solved: 17**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 9 | 56% |
-| 🟡 Medium | 7 | 44% |
+| 🟢 Easy | 10 | 59% |
+| 🟡 Medium | 7 | 41% |
 | 🔴 Hard | 0 | 0% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -87,6 +87,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📚 Stack | 0 | — |
 | 👆 Two Pointer | 3 | 2026-04-27 |
 | 📂 String | 3 | 2026-04-27 |
+| 📂 Math | 1 | 2026-04-28 |
 <!-- PATTERNS_END -->
 
 ---
@@ -109,8 +110,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2769_find_the_maximum_achievable_number.java) |
 | 2026-04-27 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1391_check_if_there_is_a_valid_path_in_a_grid.java) |
 | 2026-04-27 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/206_reverse_linked_list.java) |
 | 2026-04-27 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/String/058_length_of_last_word.java) |
