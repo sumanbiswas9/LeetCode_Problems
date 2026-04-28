@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 19**
+**Total Solved: 20**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 11 | 58% |
-| 🟡 Medium | 8 | 42% |
+| 🟢 Easy | 11 | 55% |
+| 🟡 Medium | 9 | 45% |
 | 🔴 Hard | 0 | 0% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨
 ```
 <!-- STATS_END -->
 
@@ -88,6 +88,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 👆 Two Pointer | 3 | 2026-04-27 |
 | 📂 String | 3 | 2026-04-27 |
 | 📂 Math | 2 | 2026-04-28 |
+| 📂 Weekly Contest | 1 | 2026-04-28 |
 <!-- PATTERNS_END -->
 
 ---
@@ -113,8 +114,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-28 | [Sort Vowels by Frequency](https://leetcode.com/problems/sort-vowels-by-frequency/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Weekly_Contest/3913_sort_vowels_by_frequency.java) |
 | 2026-04-28 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2033_minimum_operations_to_make_a_univalue_grid.java) |
 | 2026-04-28 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2894_divisible_and_nondivisible_sums_difference.java) |
 | 2026-04-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2769_find_the_maximum_achievable_number.java) |
