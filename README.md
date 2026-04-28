@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 17**
+**Total Solved: 18**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 10 | 59% |
-| 🟡 Medium | 7 | 41% |
+| 🟢 Easy | 11 | 61% |
+| 🟡 Medium | 7 | 39% |
 | 🔴 Hard | 0 | 0% |
 
 ```
@@ -87,7 +87,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📚 Stack | 0 | — |
 | 👆 Two Pointer | 3 | 2026-04-27 |
 | 📂 String | 3 | 2026-04-27 |
-| 📂 Math | 1 | 2026-04-28 |
+| 📂 Math | 2 | 2026-04-28 |
 <!-- PATTERNS_END -->
 
 ---
@@ -111,8 +111,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-28 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2894_divisible_and_nondivisible_sums_difference.java) |
 | 2026-04-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2769_find_the_maximum_achievable_number.java) |
 | 2026-04-27 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1391_check_if_there_is_a_valid_path_in_a_grid.java) |
 | 2026-04-27 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/206_reverse_linked_list.java) |
