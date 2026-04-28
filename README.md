@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 18**
+**Total Solved: 19**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 11 | 61% |
-| 🟡 Medium | 7 | 39% |
+| 🟢 Easy | 11 | 58% |
+| 🟡 Medium | 8 | 42% |
 | 🔴 Hard | 0 | 0% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 3 | 2026-04-27 |
+| 📅 Daily Questions | 4 | 2026-04-28 |
 | 🧮 Dynamic Programming | 3 | 2026-04-26 |
 | 📚 Stack | 0 | — |
 | 👆 Two Pointer | 3 | 2026-04-27 |
@@ -112,8 +112,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-28 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2033_minimum_operations_to_make_a_univalue_grid.java) |
 | 2026-04-28 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2894_divisible_and_nondivisible_sums_difference.java) |
 | 2026-04-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Math/2769_find_the_maximum_achievable_number.java) |
 | 2026-04-27 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1391_check_if_there_is_a_valid_path_in_a_grid.java) |
