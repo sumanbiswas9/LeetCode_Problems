@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 21**
+**Total Solved: 22**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 11 | 52% |
-| 🟡 Medium | 9 | 43% |
+| 🟢 Easy | 11 | 50% |
+| 🟡 Medium | 10 | 45% |
 | 🔴 Hard | 1 | 5% |
 
 ```
@@ -84,7 +84,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 🔄 Backtracking | 0 | — |
 | 📅 Daily Questions | 5 | 2026-04-29 |
 | 🧮 Dynamic Programming | 3 | 2026-04-26 |
-| 📚 Stack | 0 | — |
+| 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 3 | 2026-04-27 |
 | 📂 String | 3 | 2026-04-27 |
 | 📂 Math | 2 | 2026-04-28 |
@@ -116,8 +116,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-04-29 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Stack/739_daily_temperatures.java) |
 | 2026-04-29 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3225_maximum_score_from_grid_operations.java) |
 | 2026-04-28 | [Sort Vowels by Frequency](https://leetcode.com/problems/sort-vowels-by-frequency/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Weekly_Contest/3913_sort_vowels_by_frequency.java) |
 | 2026-04-28 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2033_minimum_operations_to_make_a_univalue_grid.java) |
