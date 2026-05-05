@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 27**
+**Total Solved: 28**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 12 | 44% |
-| 🟡 Medium | 14 | 52% |
+| 🟢 Easy | 12 | 43% |
+| 🟡 Medium | 15 | 54% |
 | 🔴 Hard | 1 | 4% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 ```
 <!-- STATS_END -->
 
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 10 | 2026-05-04 |
+| 📅 Daily Questions | 11 | 2026-05-05 |
 | 🧮 Dynamic Programming | 3 | 2026-04-26 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 3 | 2026-04-27 |
@@ -122,8 +122,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-05 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/061_rotate_list.java) |
 | 2026-05-04 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/048_rotate_image.java) |
 | 2026-05-03 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/796_rotate_string.java) |
 | 2026-05-02 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/788_rotated_digits.java) |
