@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 29**
+**Total Solved: 30**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 12 | 41% |
-| 🟡 Medium | 16 | 55% |
+| 🟢 Easy | 12 | 40% |
+| 🟡 Medium | 17 | 57% |
 | 🔴 Hard | 1 | 3% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 12 | 2026-05-06 |
+| 📅 Daily Questions | 13 | 2026-05-07 |
 | 🧮 Dynamic Programming | 3 | 2026-04-26 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 3 | 2026-04-27 |
@@ -124,8 +124,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-07 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3660_jump_game_ix.java) |
 | 2026-05-06 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1861_rotating_the_box.java) |
 | 2026-05-05 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/061_rotate_list.java) |
 | 2026-05-04 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/048_rotate_image.java) |
