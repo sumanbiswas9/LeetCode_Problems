@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 31**
+**Total Solved: 32**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 12 | 39% |
-| 🟡 Medium | 18 | 58% |
-| 🔴 Hard | 1 | 3% |
+| 🟢 Easy | 12 | 38% |
+| 🟡 Medium | 18 | 56% |
+| 🔴 Hard | 2 | 6% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
 ```
 <!-- STATS_END -->
 
@@ -83,7 +83,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
 | 📅 Daily Questions | 14 | 2026-05-08 |
-| 🧮 Dynamic Programming | 3 | 2026-04-26 |
+| 🧮 Dynamic Programming | 4 | 2026-05-08 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 3 | 2026-04-27 |
 | 📂 String | 3 | 2026-04-27 |
@@ -126,8 +126,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-08 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/010_regular_expression_matching.java) |
 | 2026-05-08 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3629_minimum_jumps_to_reach_end_via_prime_teleportation.java) |
 | 2026-05-07 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3660_jump_game_ix.java) |
 | 2026-05-06 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1861_rotating_the_box.java) |
