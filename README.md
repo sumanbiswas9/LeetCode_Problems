@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 32**
+**Total Solved: 33**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 12 | 38% |
-| 🟡 Medium | 18 | 56% |
-| 🔴 Hard | 2 | 6% |
+| 🟢 Easy | 12 | 36% |
+| 🟡 Medium | 18 | 55% |
+| 🔴 Hard | 3 | 9% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥
+🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -89,6 +89,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 String | 3 | 2026-04-27 |
 | 📂 Math | 2 | 2026-04-28 |
 | 📂 Weekly Contest | 1 | 2026-04-28 |
+| 📂 Tree | 1 | 2026-05-08 |
 <!-- PATTERNS_END -->
 
 ---
@@ -127,8 +128,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-08 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Tree/297_serialize_and_deserialize_binary_tree.java) |
 | 2026-05-08 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/010_regular_expression_matching.java) |
 | 2026-05-08 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3629_minimum_jumps_to_reach_end_via_prime_teleportation.java) |
 | 2026-05-07 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3660_jump_game_ix.java) |
