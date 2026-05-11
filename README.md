@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 35**
+**Total Solved: 36**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 12 | 34% |
-| 🟡 Medium | 20 | 57% |
-| 🔴 Hard | 3 | 9% |
+| 🟢 Easy | 13 | 36% |
+| 🟡 Medium | 20 | 56% |
+| 🔴 Hard | 3 | 8% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 16 | 2026-05-10 |
+| 📅 Daily Questions | 17 | 2026-05-11 |
 | 🧮 Dynamic Programming | 4 | 2026-05-08 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 3 | 2026-04-27 |
@@ -131,8 +131,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-11 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2553_separate_the_digits_in_an_array.java) |
 | 2026-05-10 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2770_maximum_number_of_jumps_to_reach_the_last_index.java) |
 | 2026-05-09 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1914_cyclically_rotating_a_grid.java) |
 | 2026-05-08 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Tree/297_serialize_and_deserialize_binary_tree.java) |
