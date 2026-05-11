@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 36**
+**Total Solved: 37**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 13 | 36% |
-| 🟡 Medium | 20 | 56% |
+| 🟢 Easy | 13 | 35% |
+| 🟡 Medium | 21 | 57% |
 | 🔴 Hard | 3 | 8% |
 
 ```
@@ -90,6 +90,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Math | 2 | 2026-04-28 |
 | 📂 Weekly Contest | 1 | 2026-04-28 |
 | 📂 Tree | 1 | 2026-05-08 |
+| 📂 Sliding Window | 1 | 2026-05-11 |
 <!-- PATTERNS_END -->
 
 ---
@@ -132,8 +133,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-11 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Sliding_Window/209_minimum_size_subarray_sum.java) |
 | 2026-05-11 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2553_separate_the_digits_in_an_array.java) |
 | 2026-05-10 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2770_maximum_number_of_jumps_to_reach_the_last_index.java) |
 | 2026-05-09 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1914_cyclically_rotating_a_grid.java) |
