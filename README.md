@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 37**
+**Total Solved: 38**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 13 | 35% |
-| 🟡 Medium | 21 | 57% |
-| 🔴 Hard | 3 | 8% |
+| 🟢 Easy | 13 | 34% |
+| 🟡 Medium | 21 | 55% |
+| 🔴 Hard | 4 | 11% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 17 | 2026-05-11 |
+| 📅 Daily Questions | 18 | 2026-05-12 |
 | 🧮 Dynamic Programming | 4 | 2026-05-08 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 3 | 2026-04-27 |
@@ -134,8 +134,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-12 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1665_minimum_initial_energy_to_finish_tasks.java) |
 | 2026-05-11 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Sliding_Window/209_minimum_size_subarray_sum.java) |
 | 2026-05-11 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2553_separate_the_digits_in_an_array.java) |
 | 2026-05-10 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2770_maximum_number_of_jumps_to_reach_the_last_index.java) |
