@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 40**
+**Total Solved: 41**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 13 | 33% |
-| 🟡 Medium | 22 | 55% |
-| 🔴 Hard | 5 | 13% |
+| 🟢 Easy | 13 | 32% |
+| 🟡 Medium | 23 | 56% |
+| 🔴 Hard | 5 | 12% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
+🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -85,7 +85,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📅 Daily Questions | 19 | 2026-05-13 |
 | 🧮 Dynamic Programming | 4 | 2026-05-08 |
 | 📚 Stack | 1 | 2026-04-29 |
-| 👆 Two Pointer | 3 | 2026-04-27 |
+| 👆 Two Pointer | 4 | 2026-05-13 |
 | 📂 String | 3 | 2026-04-27 |
 | 📂 Math | 2 | 2026-04-28 |
 | 📂 Weekly Contest | 1 | 2026-04-28 |
@@ -138,8 +138,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-13 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Two_Pointer/524_longest_word_in_dictionary_through_deleting.java) |
 | 2026-05-13 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Recursion/273_integer_to_english_words.java) |
 | 2026-05-13 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1674_minimum_moves_to_make_array_complementary.java) |
 | 2026-05-12 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1665_minimum_initial_energy_to_finish_tasks.java) |
