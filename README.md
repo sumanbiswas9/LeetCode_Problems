@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 39**
+**Total Solved: 40**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 13 | 33% |
-| 🟡 Medium | 22 | 56% |
-| 🔴 Hard | 4 | 10% |
+| 🟡 Medium | 22 | 55% |
+| 🔴 Hard | 5 | 13% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥
+🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -91,6 +91,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Weekly Contest | 1 | 2026-04-28 |
 | 📂 Tree | 1 | 2026-05-08 |
 | 📂 Sliding Window | 1 | 2026-05-11 |
+| 📂 Recursion | 1 | 2026-05-13 |
 <!-- PATTERNS_END -->
 
 ---
@@ -136,8 +137,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-13 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Recursion/273_integer_to_english_words.java) |
 | 2026-05-13 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1674_minimum_moves_to_make_array_complementary.java) |
 | 2026-05-12 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1665_minimum_initial_energy_to_finish_tasks.java) |
 | 2026-05-11 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Sliding_Window/209_minimum_size_subarray_sum.java) |
