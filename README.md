@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 44**
+**Total Solved: 45**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 14 | 32% |
-| 🟡 Medium | 25 | 57% |
-| 🔴 Hard | 5 | 11% |
+| 🟢 Easy | 14 | 31% |
+| 🟡 Medium | 25 | 56% |
+| 🔴 Hard | 6 | 13% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥
+🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -83,7 +83,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
 | 📅 Daily Questions | 21 | 2026-05-15 |
-| 🧮 Dynamic Programming | 4 | 2026-05-08 |
+| 🧮 Dynamic Programming | 5 | 2026-05-16 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
 | 📂 String | 4 | 2026-05-15 |
@@ -142,8 +142,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-16 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/154_find_minimum_in_rotated_sorted_array_ii.java) |
 | 2026-05-15 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/String/008_string_to_integer_atoi.java) |
 | 2026-05-15 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/153_find_minimum_in_rotated_sorted_array.java) |
 | 2026-05-14 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2784_check_if_array_is_good.java) |
