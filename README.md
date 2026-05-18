@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 46**
+**Total Solved: 47**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 14 | 30% |
-| 🟡 Medium | 26 | 57% |
-| 🔴 Hard | 6 | 13% |
+| 🟡 Medium | 26 | 55% |
+| 🔴 Hard | 7 | 15% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
@@ -83,7 +83,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
 | 📅 Daily Questions | 21 | 2026-05-15 |
-| 🧮 Dynamic Programming | 6 | 2026-05-17 |
+| 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
 | 📂 String | 4 | 2026-05-15 |
@@ -144,8 +144,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-18 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/1345_jump_game_iv.java) |
 | 2026-05-17 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/1306_jump_game_iii.java) |
 | 2026-05-16 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/154_find_minimum_in_rotated_sorted_array_ii.java) |
 | 2026-05-15 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/String/008_string_to_integer_atoi.java) |
