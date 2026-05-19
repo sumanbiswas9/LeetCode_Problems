@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 48**
+**Total Solved: 49**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 15 | 31% |
-| 🟡 Medium | 26 | 54% |
-| 🔴 Hard | 7 | 15% |
+| 🟡 Medium | 27 | 55% |
+| 🔴 Hard | 7 | 14% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
@@ -91,7 +91,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Weekly Contest | 1 | 2026-04-28 |
 | 📂 Tree | 1 | 2026-05-08 |
 | 📂 Sliding Window | 1 | 2026-05-11 |
-| 📂 Recursion | 1 | 2026-05-13 |
+| 📂 Recursion | 2 | 2026-05-19 |
 <!-- PATTERNS_END -->
 
 ---
@@ -146,8 +146,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-19 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Recursion/386_lexicographical_numbers.java) |
 | 2026-05-19 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2540_minimum_common_value.java) |
 | 2026-05-18 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/1345_jump_game_iv.java) |
 | 2026-05-17 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/1306_jump_game_iii.java) |
