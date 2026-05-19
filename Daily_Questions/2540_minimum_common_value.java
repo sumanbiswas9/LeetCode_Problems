@@ -1,0 +1,20 @@
+// ============================================================
+// Problem    : 2540. Minimum Common Value
+// Difficulty : Easy
+// URL        : https://leetcode.com/problems/minimum-common-value/
+// Language   : Java
+// Date       : 2026-05-19
+// ============================================================
+class Solution {
+    public int getCommon(int[] nums1, int[] nums2) {
+        int i=0;
+        int j=0;
+        while(i<nums1.length && j<nums2.length){
+            if(nums1[i]==nums2[j]) return nums1[i];
+            else if(nums1[i]>nums2[j]){
+                j++;
+            }else i++;
+        }
+        return -1;
+    }
+}
