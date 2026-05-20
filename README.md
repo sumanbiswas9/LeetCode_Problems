@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 49**
+**Total Solved: 50**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 15 | 31% |
-| 🟡 Medium | 27 | 55% |
+| 🟢 Easy | 15 | 30% |
+| 🟡 Medium | 28 | 56% |
 | 🔴 Hard | 7 | 14% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 22 | 2026-05-19 |
+| 📅 Daily Questions | 23 | 2026-05-20 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -147,8 +147,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-20 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2657_find_the_prefix_common_array_of_two_arrays.java) |
 | 2026-05-19 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Recursion/386_lexicographical_numbers.java) |
 | 2026-05-19 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2540_minimum_common_value.java) |
 | 2026-05-18 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Dynamic_Programming/1345_jump_game_iv.java) |
