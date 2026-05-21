@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 51**
+**Total Solved: 52**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 15 | 29% |
-| 🟡 Medium | 29 | 57% |
-| 🔴 Hard | 7 | 14% |
+| 🟢 Easy | 16 | 31% |
+| 🟡 Medium | 29 | 56% |
+| 🔴 Hard | 7 | 13% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
@@ -90,7 +90,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Math | 2 | 2026-04-28 |
 | 📂 Weekly Contest | 1 | 2026-04-28 |
 | 📂 Tree | 1 | 2026-05-08 |
-| 📂 Sliding Window | 1 | 2026-05-11 |
+| 📂 Sliding Window | 2 | 2026-05-21 |
 | 📂 Recursion | 2 | 2026-05-19 |
 <!-- PATTERNS_END -->
 
@@ -149,8 +149,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-21 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Sliding_Window/1800_maximum_ascending_subarray_sum.java) |
 | 2026-05-21 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3043_find_the_length_of_the_longest_common_prefix.java) |
 | 2026-05-20 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2657_find_the_prefix_common_array_of_two_arrays.java) |
 | 2026-05-19 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Recursion/386_lexicographical_numbers.java) |
