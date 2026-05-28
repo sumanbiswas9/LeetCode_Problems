@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 58**
+**Total Solved: 59**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 18 | 31% |
-| 🟡 Medium | 32 | 55% |
-| 🔴 Hard | 8 | 14% |
+| 🟡 Medium | 32 | 54% |
+| 🔴 Hard | 9 | 15% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 30 | 2026-05-27 |
+| 📅 Daily Questions | 31 | 2026-05-28 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -156,8 +156,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-28 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3093_longest_common_suffix_queries.java) |
 | 2026-05-27 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3121_count_the_number_of_special_characters_ii.java) |
 | 2026-05-26 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3120_count_the_number_of_special_characters_i.java) |
 | 2026-05-25 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1871_jump_game_vii.java) |
