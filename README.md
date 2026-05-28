@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 59**
+**Total Solved: 60**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 18 | 31% |
-| 🟡 Medium | 32 | 54% |
+| 🟢 Easy | 18 | 30% |
+| 🟡 Medium | 33 | 55% |
 | 🔴 Hard | 9 | 15% |
 
 ```
@@ -92,6 +92,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Tree | 1 | 2026-05-08 |
 | 📂 Sliding Window | 2 | 2026-05-21 |
 | 📂 Recursion | 2 | 2026-05-19 |
+| 📂 Graph | 1 | 2026-05-28 |
 <!-- PATTERNS_END -->
 
 ---
@@ -157,8 +158,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-05-28 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Graph/433_minimum_genetic_mutation.java) |
 | 2026-05-28 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3093_longest_common_suffix_queries.java) |
 | 2026-05-27 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3121_count_the_number_of_special_characters_ii.java) |
 | 2026-05-26 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3120_count_the_number_of_special_characters_i.java) |
