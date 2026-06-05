@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 67**
+**Total Solved: 68**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 21 | 31% |
-| 🟡 Medium | 36 | 54% |
-| 🔴 Hard | 10 | 15% |
+| 🟡 Medium | 36 | 53% |
+| 🔴 Hard | 11 | 16% |
 
 ```
 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥
@@ -93,6 +93,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Sliding Window | 2 | 2026-05-21 |
 | 📂 Recursion | 2 | 2026-05-19 |
 | 📂 Graph | 1 | 2026-05-28 |
+| 📂 Greedy | 1 | 2026-06-05 |
 <!-- PATTERNS_END -->
 
 ---
@@ -166,8 +167,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-06-05 | [Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Greedy/135_candy.java) |
 | 2026-06-04 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3751_total_waviness_of_numbers_in_range_i.java) |
 | 2026-06-03 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3635_earliest_finish_time_for_land_and_water_rides_ii.java) |
 | 2026-06-02 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3633_earliest_finish_time_for_land_and_water_rides_i.java) |
