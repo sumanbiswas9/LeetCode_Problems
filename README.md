@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 80**
+**Total Solved: 81**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 22 | 28% |
-| 🟡 Medium | 43 | 54% |
+| 🟢 Easy | 22 | 27% |
+| 🟡 Medium | 44 | 54% |
 | 🔴 Hard | 15 | 19% |
 
 ```
-🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 49 | 2026-06-17 |
+| 📅 Daily Questions | 50 | 2026-06-18 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -180,8 +180,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-06-18 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1344_angle_between_hands_of_a_clock.java) |
 | 2026-06-17 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3614_process_string_with_special_operations_ii.java) |
 | 2026-06-16 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3612_process_string_with_special_operations_i.java) |
 | 2026-06-15 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2095_delete_the_middle_node_of_a_linked_list.java) |
