@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 103**
+**Total Solved: 104**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 26 | 25% |
-| 🟡 Medium | 55 | 53% |
+| 🟡 Medium | 56 | 54% |
 | 🔴 Hard | 22 | 21% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 72 | 2026-07-10 |
+| 📅 Daily Questions | 73 | 2026-07-11 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -203,8 +203,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-07-11 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2685_count_the_number_of_complete_components.java) |
 | 2026-07-10 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3534_path_existence_queries_in_a_graph_ii.java) |
 | 2026-07-09 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3532_path_existence_queries_in_a_graph_i.java) |
 | 2026-07-08 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3756_concatenate_nonzero_digits_and_multiply_by_sum_ii.java) |
