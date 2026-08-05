@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 128**
+**Total Solved: 129**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 35 | 27% |
-| 🟡 Medium | 66 | 52% |
+| 🟡 Medium | 67 | 52% |
 | 🔴 Hard | 27 | 21% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 97 | 2026-08-04 |
+| 📅 Daily Questions | 98 | 2026-08-05 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -228,8 +228,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-08-05 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3310_remove_methods_from_project.java) |
 | 2026-08-04 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3731_find_missing_elements.java) |
 | 2026-08-03 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/1406_stone_game_iii.java) |
 | 2026-08-02 | [Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/877_stone_game.java) |
