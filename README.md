@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 151**
+**Total Solved: 152**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 40 | 26% |
-| 🟡 Medium | 77 | 51% |
-| 🔴 Hard | 34 | 23% |
+| 🟡 Medium | 78 | 51% |
+| 🔴 Hard | 34 | 22% |
 
 ```
-🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 120 | 2026-08-30 |
+| 📅 Daily Questions | 121 | 2026-08-31 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -251,8 +251,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-08-31 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points.java) |
 | 2026-08-30 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2091_removing_minimum_and_maximum_from_array.java) |
 | 2026-08-29 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2948_make_lexicographically_smallest_array_by_swapping_elements.java) |
 | 2026-08-28 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3734_lexicographically_smallest_palindromic_permutation_greater_than_target.java) |
