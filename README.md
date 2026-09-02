@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 153**
+**Total Solved: 154**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 40 | 26% |
-| 🟡 Medium | 79 | 52% |
+| 🟢 Easy | 41 | 27% |
+| 🟡 Medium | 79 | 51% |
 | 🔴 Hard | 34 | 22% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 122 | 2026-09-01 |
+| 📅 Daily Questions | 123 | 2026-09-02 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -253,8 +253,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-09-02 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3875_construct_uniform_parity_array_i.java) |
 | 2026-09-01 | [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3568_minimum_moves_to_clean_the_classroom.java) |
 | 2026-08-31 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points.java) |
 | 2026-08-30 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2091_removing_minimum_and_maximum_from_array.java) |
