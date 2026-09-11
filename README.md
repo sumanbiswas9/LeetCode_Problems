@@ -61,16 +61,16 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 162**
+**Total Solved: 163**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 Easy | 43 | 27% |
+| 🟢 Easy | 43 | 26% |
 | 🟡 Medium | 83 | 51% |
-| 🔴 Hard | 36 | 22% |
+| 🔴 Hard | 37 | 23% |
 
 ```
-🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥
+🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥🟥
 ```
 <!-- STATS_END -->
 
@@ -94,6 +94,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | 📂 Recursion | 2 | 2026-05-19 |
 | 📂 Graph | 1 | 2026-05-28 |
 | 📂 Greedy | 2 | 2026-06-05 |
+| 📂 HashMap | 1 | 2026-09-11 |
 <!-- PATTERNS_END -->
 
 ---
@@ -262,8 +263,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-09-11 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/HashMap/041_first_missing_positive.java) |
 | 2026-09-10 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2265_count_nodes_equal_to_average_of_subtree.java) |
 | 2026-09-09 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3871_count_commas_in_range_ii.java) |
 | 2026-09-08 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3870_count_commas_in_range.java) |
