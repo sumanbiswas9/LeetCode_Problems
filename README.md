@@ -61,12 +61,12 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 165**
+**Total Solved: 166**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 44 | 27% |
-| 🟡 Medium | 83 | 50% |
+| 🟡 Medium | 84 | 51% |
 | 🔴 Hard | 38 | 23% |
 
 ```
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 132 | 2026-09-12 |
+| 📅 Daily Questions | 133 | 2026-09-13 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -266,8 +266,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-09-13 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/835_image_overlap.java) |
 | 2026-09-12 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3414_maximum_score_of_nonoverlapping_intervals.java) |
 | 2026-09-11 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/HashMap/3483_unique_3digit_even_numbers.java) |
 | 2026-09-11 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/HashMap/041_first_missing_positive.java) |
