@@ -61,13 +61,13 @@ This repository is my **public commitment** to becoming a better problem solver.
 ## 📊 Progress Overview
 
 <!-- STATS_START -->
-**Total Solved: 167**
+**Total Solved: 168**
 
 | Difficulty | Count | Percentage |
 | :--- | :---: | :---: |
 | 🟢 Easy | 45 | 27% |
 | 🟡 Medium | 84 | 50% |
-| 🔴 Hard | 38 | 23% |
+| 🔴 Hard | 39 | 23% |
 
 ```
 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟥🟥🟥🟥🟥
@@ -82,7 +82,7 @@ This repository is my **public commitment** to becoming a better problem solver.
 | Pattern | Problems Solved | Last Solved |
 |---|---|---|
 | 🔄 Backtracking | 0 | — |
-| 📅 Daily Questions | 134 | 2026-09-14 |
+| 📅 Daily Questions | 135 | 2026-09-15 |
 | 🧮 Dynamic Programming | 7 | 2026-05-18 |
 | 📚 Stack | 1 | 2026-04-29 |
 | 👆 Two Pointer | 4 | 2026-05-13 |
@@ -268,8 +268,10 @@ This repository is my **public commitment** to becoming a better problem solver.
 
 
 
+
 | Date | Problem | Difficulty | Solution |
 |------|---------|------------|----------|
+| 2026-09-15 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/2472_maximum_number_of_nonoverlapping_palindrome_substrings.java) |
 | 2026-09-14 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/836_rectangle_overlap.java) |
 | 2026-09-13 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | 🟡 Medium | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/835_image_overlap.java) |
 | 2026-09-12 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | 🔴 Hard | [Solution](https://github.com/sumanbiswas9/LeetCode_Problems/blob/main/Daily_Questions/3414_maximum_score_of_nonoverlapping_intervals.java) |
